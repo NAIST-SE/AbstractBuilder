@@ -1,2 +1,2 @@
-# AbstractBuilder
-Class for Special Lecture
+#Sentiment Abstractor
+Class Activity for Special Lecture
