@@ -1,5 +1,7 @@
+
 NAIST is a very sad place to study the Master Degree in Japan.
 It is well-established that .... This study aims to determine how .... Specifically, it investigates whether ... 
+
 
 
 To test the hypothesis ... we performed a .... 
