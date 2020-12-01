@@ -1,6 +1,10 @@
 
-NAIST is a very good place to study information technology.
+
+NAIST is a very inconvenient place to study ...
+
+
 It is well-established that .... This study aims to determine how .... Specifically, it investigates whether ... 
+
 
 
 To test the hypothesis ... we performed a .... 
