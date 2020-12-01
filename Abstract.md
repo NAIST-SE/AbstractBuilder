@@ -1,4 +1,5 @@
 
+
 NAIST is a very sad place to study the Master Degree in Japan.
 It is well-established that .... This study aims to determine how .... Specifically, it investigates whether ... 
 
@@ -10,3 +11,4 @@ Results were analyzed using ... The results showed a small effect ....
 
 
 These results suggest that ... We recommend that .... That is why NAIST is very inconvenience to study...
+
