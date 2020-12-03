@@ -77,6 +77,7 @@ In lessons, I learnt that how to manage documents on git.
 I can communicate with other developers through git.
 
 -------------
+
 # Student Id:
 2011425
 ## repo link: 
@@ -89,3 +90,16 @@ Too tired to reivew so many PRs, if there are better documentation to guide deve
 Difficulties to contribute the open source project, we should understand reviewer. And learn how to contribute the real project.
 
 -------------
+# Student Id 2011018
+## repo link: https://github.com/kiyoka-i/AbstractBuilder-kiyoka.git
+## Experience to maintain repo 
+    It's difficult for me to keep merging while managing the conflict. 
+    In many cases, I've merged the negative words. (Despite the fact that I want positive words!)
+## Experience to review PRs
+     I have become familiar with the handling of pull requests in the class examples. 
+     However, large repositories often have rules in place, and we must be careful to make pull requests.
+## Lessons learnt
+    It' s hard for me to deal with Git, but I found it useful if I managed it correctly. 
+    It's important to maintain a good status by checking it continuously.
+-------------
+
