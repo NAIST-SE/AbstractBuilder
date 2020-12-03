@@ -7,8 +7,9 @@ Maintaining a repository is a good thing so that the developer's repository are 
 I found that if I had a late check for pull requests it would cause other people who came to fix it at the same point to reconfigure and I need to fix the conflicts. Exercises for the class is small enough to be easily modified, but if it's a large-scale, it might take a lot of time.
 ## Lessons learnt
 Learn how to fork to help edit or update other developers' work. Made me realize that maintain a repository is important in social interaction.
+
 -------------
-# Student Id
+# Student Id 2011416
 ## repo link: 
 https://github.com/aommoaGitHub/AbstractBuilder_Aom
 ## Experience to maintain repo: 
