@@ -7,8 +7,9 @@ Maintaining a repository is a good thing so that the developer's repository are 
 I found that if I had a late check for pull requests it would cause other people who came to fix it at the same point to reconfigure and I need to fix the conflicts. Exercises for the class is small enough to be easily modified, but if it's a large-scale, it might take a lot of time.
 ## Lessons learnt
 Learn how to fork to help edit or update other developers' work. Made me realize that maintain a repository is important in social interaction.
+
 -------------
-# Student Id
+# Student Id 2011416
 ## repo link: 
 https://github.com/aommoaGitHub/AbstractBuilder_Aom
 ## Experience to maintain repo: 
@@ -106,4 +107,49 @@ I can communicate with other developers through git.
 ## Experience to review PRs
     Descriptions provided in the PRs should be intuitive for the reviewers to understand what are the changes made. In that way, the reviewers can grasp basic ideas first what to look and check for in the PRs.
 ## Lessons learnt
+
     GitHub is a powerful VCS that provides comprehensive and collaborative coding environment. It takes time to get used to everything, but upon mastering it it is very handy.
+
+=======
+How to properly manage the repository.
+How to colaborate with others on GitHub
+
+-------------
+# Student Id: 2011425
+## repo link: 
+https://github.com/markxiaotao/AbstractBuilderFromMark
+## Experience to maintain repo: 
+Take time to resolve conflicts, with many commits by other contributors. Should keep many reviewers to help review process. 
+## Experience to review PRs: 
+Too tired to reivew so many PRs, if there are better documentation to guide developers.
+## Lessons learnt: 
+Difficulties to contribute the open source project, we should understand reviewer. And learn how to contribute the real project.
+
+------------
+# Student Id:2011171
+## repo link: https://github.com/takeru56/AbstractBuilder
+## Experience to maintain repo
+I thought maintaining software repository is very hard work, because sometimes many PRs comes at the same time. I thought we(software engineering researcher) have to mitigate developers effort to review these PRs.
+## Experience to review PRs
+- I spent a lot of time to read source code and make decision to accept or not.
+- resolving conflict tool in Github are very usefull
+## Lessons learnt
+- Reading source code and making decision whether I will accept or not are very hard work.
+
+=======
+-------------
+# Student Id :2011145
+repo link: https://github.com/taku2365/AbstractBuilder-2011145
+my dad joke was mereged  https://github.com/wesbos/dad-jokes/pull/228
+
+## Experience to maintain repo
+It was very useful to learn how to resolve confilict.
+I will use it in my future research.
+
+## Experience to review PRs
+It was difficult because it was my first time experiencing it.
+
+## Lessons learnt:
+In today's complex development, it's hard to manage code. I felt it was important to manage projects in the community.
+
+-------------
