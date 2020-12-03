@@ -7,9 +7,8 @@ Maintaining a repository is a good thing so that the developer's repository are 
 I found that if I had a late check for pull requests it would cause other people who came to fix it at the same point to reconfigure and I need to fix the conflicts. Exercises for the class is small enough to be easily modified, but if it's a large-scale, it might take a lot of time.
 ## Lessons learnt
 Learn how to fork to help edit or update other developers' work. Made me realize that maintain a repository is important in social interaction.
-
 -------------
-# Student Id 2011416
+# Student Id
 ## repo link: 
 https://github.com/aommoaGitHub/AbstractBuilder_Aom
 ## Experience to maintain repo: 
@@ -88,40 +87,19 @@ In lessons, I learnt that how to manage documents on git.
 I can communicate with other developers through git.
 
 -------------
-# Student Id 2011018
-## repo link: https://github.com/kiyoka-i/AbstractBuilder-kiyoka.git
-## Experience to maintain repo 
-    It's difficult for me to keep merging while managing the conflict. 
-    In many cases, I've merged the negative words. (Despite the fact that I want positive words!)
-## Experience to review PRs
-     I have become familiar with the handling of pull requests in the class examples. 
-     However, large repositories often have rules in place, and we must be careful to make pull requests.
-## Lessons learnt
-    It' s hard for me to deal with Git, but I found it useful if I managed it correctly. 
-    It's important to maintain a good status by checking it continuously.
--------------
-
-# Student Id:2011421
-## repo link:
-https://github.com/tattiyaS/AbstractBuilder-2011421
-## Experience to maintain repo
-At first I am a little bit confused. However, it feels easier after I get used to it.
-## Experience to review PRs
-I can know moere on reviewing PRs with other's reporitories since I have only use my own team previously. So, I know that is very useful for developers.
-## Lessons learnt
-How to properly manage the repository.
-How to colaborate with others on GitHub
-
--------------
 # Student Id:
-2011425
-## repo link: 
-https://github.com/markxiaotao/AbstractBuilderFromMark
-## Experience to maintain repo: 
-Take time to resolve conflicts, with many commits by other contributors. Should keep many reviewers to help review process. 
-## Experience to review PRs: 
-Too tired to reivew so many PRs, if there are better documentation to guide developers.
-## Lessons learnt: 
-Difficulties to contribute the open source project, we should understand reviewer. And learn how to contribute the real project.
+2011156
+## repo link:
+https://github.com/yebityon/seongAbstractBuilder
+## Experience to maintain repo
+I have experienced GitHub, but It was my first time to use it with the other members.
+
+## Experience to review PR
+I thought we should review and decide whether to merge or not as soon as possible.
+
+## Lessons learnt
+when the pull request which I sent was closed without any notification, I couldn't find the reason so that I couldn't fix it.
+Now I would like to know the way to use Github efficiently. 
+then I can boost my developing process :)
 
 -------------
