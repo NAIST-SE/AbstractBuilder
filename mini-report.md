@@ -135,3 +135,20 @@ I thought maintaining software repository is very hard work, because sometimes m
 ## Lessons learnt
 - Reading source code and making decision whether I will accept or not are very hard work.
 
+=======
+-------------
+# Student Id :2011145
+repo link: https://github.com/taku2365/AbstractBuilder-2011145
+my dad joke was mereged  https://github.com/wesbos/dad-jokes/pull/228
+
+## Experience to maintain repo
+It was very useful to learn how to resolve confilict.
+I will use it in my future research.
+
+## Experience to review PRs
+It was difficult because it was my first time experiencing it.
+
+## Lessons learnt:
+In today's complex development, it's hard to manage code. I felt it was important to manage projects in the community.
+
+-------------
