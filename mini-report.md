@@ -99,3 +99,16 @@ I can communicate with other developers through git.
     It' s hard for me to deal with Git, but I found it useful if I managed it correctly. 
     It's important to maintain a good status by checking it continuously.
 -------------
+
+# Student Id:2011421
+## repo link:
+https://github.com/tattiyaS/AbstractBuilder-2011421
+## Experience to maintain repo
+At first I am a little bit confused. However, it feels easier after I get used to it.
+## Experience to review PRs
+I can know moere on reviewing PRs with other's reporitories since I have only use my own team previously. So, I know that is very useful for developers.
+## Lessons learnt
+How to properly manage the repository.
+How to colaborate with others on GitHub
+
+-------------
