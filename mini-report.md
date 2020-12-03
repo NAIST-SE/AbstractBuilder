@@ -72,3 +72,18 @@ However, I found it was a little troublesome when there is a conflicting pull re
 In these lessons I learned that, above all, it is important to ask other programmers when I seem to be stuck. Right after asking my classmate about creating a pull request, I could work on the task more efficiently.
 
 -------------
+# Student Id:
+2011025
+## repo link:
+https://github.com/Toyomi-i/AbstractBuilder_toyomi
+## Experience to maintain repo
+It feels difficult for me firstly because I have not used git so much.
+I enjoyed the process of editing documents using git.
+## Experience to review PRs
+I realized that reviewing PRs on git is easy to compare modifications.
+I want to use git to manage documents.
+## Lessons learnt
+In lessons, I learnt that how to manage documents on git.
+I can communicate with other developers through git.
+
+-------------
