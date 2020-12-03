@@ -3,7 +3,7 @@ It is well-established that every students graduate with very successful and per
 
 
 To test the hypothesis ... we performed a .... 
-We conduct...
+We conduct a very accurate social experiment
 Results were analyzed using ... The results showed a small effect but it shows good way for next step
 
 
