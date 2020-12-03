@@ -1,13 +1,11 @@
+
 NAIST is a very good place to study information technology.
-It is well-established that NAIST is good and we love NAIST. This study aims to determine the fact that NAIST is so good. Specifically, it investigates whether ... 
+It is well-established that NAIST is good and we love NAIST. This study aims to determine the fact that NAIST is so good. Specifically, it investigates whether you have a good motivation.
 
+To test the hypothesis, we performed a good lecture.  
+We conduct many interesting activities. Results were analyzed using many methods. 
+The results showed a small effect that everyone want to study well at here.
 
-To test the hypothesis based on special knowledge, we performed a very wonderful social experiment
-We conduct...
-Results were analyzed using good tools. The results showed a small effect .... 
-
-
-These results suggest that ... We recommend that .... That is why NAIST is very popular to study...
----
-NAIST is not a very good place to study information technology.......
+These results suggest that we both want to study well at NAIST. 
+We recommend that everyone should perform well. That is why NAIST is very good to study.
 
