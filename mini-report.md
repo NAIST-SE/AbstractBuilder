@@ -124,4 +124,14 @@ Too tired to reivew so many PRs, if there are better documentation to guide deve
 ## Lessons learnt: 
 Difficulties to contribute the open source project, we should understand reviewer. And learn how to contribute the real project.
 
--------------
+------------
+# Student Id:2011171
+## repo link: https://github.com/takeru56/AbstractBuilder
+## Experience to maintain repo
+I thought maintaining software repository is very hard work, because sometimes many PRs comes at the same time. I thought we(software engineering researcher) have to mitigate developers effort to review these PRs.
+## Experience to review PRs
+- I spent a lot of time to read source code and make decision to accept or not.
+- resolving conflict tool in Github are very usefull
+## Lessons learnt
+- Reading source code and making decision whether I will accept or not are very hard work.
+
