@@ -100,21 +100,22 @@ I can communicate with other developers through git.
     It' s hard for me to deal with Git, but I found it useful if I managed it correctly. 
     It's important to maintain a good status by checking it continuously.
 -------------
-
-# Student Id:2011421
-## repo link:
-https://github.com/tattiyaS/AbstractBuilder-2011421
-## Experience to maintain repo
-At first I am a little bit confused. However, it feels easier after I get used to it.
+# Student Id 2011418
+## repo link: https://github.com/Phancisth/AbstractBuilder-2011418.git
+## Experience to maintain repo 
+    Projects with many forks and branches can be troublesome because it can be very messy if the programmers do not know what are they doing to each branch or fork.
 ## Experience to review PRs
-I can know moere on reviewing PRs with other's reporitories since I have only use my own team previously. So, I know that is very useful for developers.
+    Descriptions provided in the PRs should be intuitive for the reviewers to understand what are the changes made. In that way, the reviewers can grasp basic ideas first what to look and check for in the PRs.
 ## Lessons learnt
+
+    GitHub is a powerful VCS that provides comprehensive and collaborative coding environment. It takes time to get used to everything, but upon mastering it it is very handy.
+
+=======
 How to properly manage the repository.
 How to colaborate with others on GitHub
 
 -------------
-# Student Id:
-2011425
+# Student Id: 2011425
 ## repo link: 
 https://github.com/markxiaotao/AbstractBuilderFromMark
 ## Experience to maintain repo: 
